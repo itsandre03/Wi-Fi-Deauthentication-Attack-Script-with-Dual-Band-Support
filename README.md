@@ -5,3 +5,7 @@ This Bash script enables deauthentication attacks on Wi-Fi networks, including s
 
 # Legal Notice
 This script is intended for educational, testing, and authorized security purposes only. Unauthorized use of this script to disrupt or interfere with Wi-Fi networks is illegal and unethical. Always ensure you have explicit permission from the network owner before using this tool. The author and contributors are not responsible for any misuse, damage, or legal consequences resulting from the use of this script. By using this script, you agree to use it responsibly and in compliance with all applicable laws and regulations.
+
+# To do
+- Fix bugs
+- Eventually add more features 
