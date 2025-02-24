@@ -42,3 +42,9 @@ sudo ./Deauther.sh
 # To Do
 - Fix any existing bugs.
 - Implement additional features
+
+# Tested On
+Kali Linux (latest version).
+
+# Contributing
+Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
