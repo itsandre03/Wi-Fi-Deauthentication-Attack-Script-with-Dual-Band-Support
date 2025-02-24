@@ -8,4 +8,6 @@ This script is intended for educational, testing, and authorized security purpos
 
 # To do
 - Fix bugs
-- Eventually add more features 
+- Eventually add more features
+
+Coded and tested on Kali Linux
