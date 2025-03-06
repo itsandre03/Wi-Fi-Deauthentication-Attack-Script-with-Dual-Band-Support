@@ -1,7 +1,7 @@
 # Wi-Fi Deauthentication Attack Script with Dual Band Support
 
 ## Description
-This Bash script facilitates deauthentication attacks on Wi-Fi networks, including support for both 2.4 GHz and 5 GHz (dual-band) networks. It provides functionalities to enable/disable monitor mode, scan for available networks, list connected devices, and perform normal or dual-band deauthentication attacks. The script requires root permissions and relies on tools such as `airmon-ng`, `airodump-ng`, and `aireplay-ng` from the Aircrack-ng suite.
+This Bash script facilitates deauthentication attacks on Wi-Fi networks, including support for both 2.4 GHz and 5 GHz (dual-band) networks. It provides functionalities to enable/disable monitor mode, scan for available networks, list connected devices, and perform normal or dual-band deauthentication attacks on a single network card. The script requires root permissions and relies on tools such as `airmon-ng`, `airodump-ng`, and `aireplay-ng` from the Aircrack-ng suite.
 
 This tool is designed for Wi-Fi security testing, penetration testing, and educational purposes. It is particularly useful for assessing the resilience of Wi-Fi networks against deauthentication attacks.
 
